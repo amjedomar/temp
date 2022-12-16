@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "brisbanegateway.com.au",
+  "Id": "7efb19bc-e8da-4c6a-b363-ea4c6fcea420"
+}
